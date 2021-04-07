@@ -16,7 +16,7 @@ import simpy
 RANDOM_SEED = 42
 ARRIVAL_INTERVAL = 10.0  # lambda
 SERVICE_TIME = 8.0  # mu
-SIM_TIME = 10000
+SIM_TIME = 100000
 
 
 class MonitoredResource(simpy.Resource):
