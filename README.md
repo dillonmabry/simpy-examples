@@ -1,5 +1,5 @@
-# Simpy Examples
-A small collection of programs for generic simulations in Simpy: an open-source Python simulation framework
+# SimPy Examples
+A small collection of programs for generic simulations in SimPy: an open-source Python simulation framework
 
 ## Instructions
 Setup
